@@ -1,4 +1,4 @@
-# Calculating Interest
+! Calculating Interest
 
 This program provides utilities for calculating interest over a fixed or bounded number of iterations.
 
@@ -24,4 +24,4 @@ where `<function_name>` is one of the following:
 * `fixed_iteration_interest`
 * `bounded_iteration_interest`
 
-Be sure to update `inputs/interest.in` with the desired inputs.
+Be sure to update `inputs/interest.in` with the desired inputs. 
